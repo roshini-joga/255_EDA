@@ -1,5 +1,7 @@
 # 255_EDA
 
+Google Colab Link: https://colab.research.google.com/drive/1zsYbJO5E1g04o5n4amDcWBrvz0U9NIrp?usp=sharing
+
 Part 1
 Your goal is to do EDA, visualization and data preparation and processing of popular kaggle datasets that need to be cleaned and build models
 
